@@ -27,11 +27,11 @@ export default function About() {
 
         <h3 className="text-xl font-semibold mb-4">
           I'm Nicole Mbabazi{" "}
-          <span className="text-[#ec1839]">a Data Scientist</span>
+          <span className="text-[#ec1839]">a Computer Scientist</span>
         </h3>
 
         <p className="mb-4 text-gray-700">
-          I am a dedicated and detail-oriented Data Scientist with a strong
+          I am a dedicated and detail-oriented Computer Scientist with a strong
           foundation in computer science and a passion for leveraging data to
           drive informed decision-making. I have hands-on experience in data
           analysis, machine learning, and statistical modeling, and I am
